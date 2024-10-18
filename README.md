@@ -1,5 +1,5 @@
 ## Object Detection App
-This project is a mobile application built with Flutter and powered by TensorFlow Lite. The app performs real-time object detection on images or video streams using pretrained models, offering a seamless experience for recognizing objects on Android and iOS platforms.
+This project is a mobile application built with Flutter and powered by TensorFlow Lite. The app performs real-time object detection on images or video streams using pretrained models and you can upload the taken image Firebase store there, offering a seamless experience for recognizing objects on Android and iOS platforms.
 
 ## Features
   * Real-time object detection: Identifies objects using TensorFlow Lite models.
